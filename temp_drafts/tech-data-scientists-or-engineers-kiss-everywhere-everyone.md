@@ -52,3 +52,4 @@ We all do dumb things from time to time (I'll be the first to admit to this). Th
 
 "That is all!" (quote from a team member whenever he feels like he's said something sensible)
 
+Note: the original working notebook can be found [here](https://github.com/chilledgeek/blog_dump/blob/main/exotic_fruit_retail/fictional_sales.ipynb)
