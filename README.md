@@ -2,4 +2,5 @@
 Additional content supporting blog articles
 
 Sites:
-- [chilledgeek blog](https://blog.chilledgeek.com)
+- [Personal (chilledgeek) blog](https://blog.chilledgeek.com)
+- [My medium blog](https://medium.com/@ernchow)
